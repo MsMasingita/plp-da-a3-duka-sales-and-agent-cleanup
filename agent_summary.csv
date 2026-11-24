@@ -1,0 +1,13 @@
+county,txn_type,txn_count,total_amount,avg_amount,outlier_count,clean_txn_count,clean_total_amount
+Kiambu,Deposit,43,334737.0,7784.58,1,42,84737.0
+Kiambu,Withdrawal,26,75274.0,2895.15,0,26,75274.0
+Kisumu,Deposit,71,431091.0,6071.7,1,70,181091.0
+Kisumu,Withdrawal,36,74598.0,2072.17,0,36,74598.0
+Mombasa,Deposit,68,141880.0,2086.47,0,68,141880.0
+Mombasa,Withdrawal,61,368592.0,6042.49,1,60,118592.0
+Nairobi,Deposit,114,536484.0,4706.0,1,113,286484.0
+Nairobi,Withdrawal,58,154930.0,2671.21,0,58,154930.0
+Nakuru,Deposit,58,181337.0,3126.5,0,58,181337.0
+Nakuru,Withdrawal,38,326818.0,8600.47,1,37,76818.0
+Unknown,Deposit,6,25279.0,4213.17,0,6,25279.0
+Unknown,Withdrawal,1,1877.0,1877.0,0,1,1877.0
